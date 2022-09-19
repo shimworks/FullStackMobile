@@ -1,10 +1,9 @@
 # Tabela de conteúdos
 - **[Descrição](#descrição)**<br>
+- **[Tecnologias](#tecnologias)**<br>
 - **[Overview](#overview)**<br>
 - **[Próximos passos](#próximos-passos)**<br>
-- **[Tecnologias](#tecnologias)**<br>
 - **[Visualisando o Projeto](#visualisando-o-projeto)**<br>
-- **[Overview](#visualisando-o-projeto)**<br>
 
 ## Descrição 
   Este projeto tem como objetivo, aprofundar o conhecimento no desenvolvimento front-end, back-end e mobile.<br>
@@ -16,29 +15,6 @@
   - Visualizar Jogos
   - Visualizar anúncios em cada jogo 
   - Conectar com o duo
-
-
-## Overview
-
-<img src="./Preview/WebHomePage.png" alt="WebHomePage" width="80%"/>
-<img src="./Preview/WebModal.png" alt="WebModal" width="400px"/>
-<div>
-  <img src="./Preview/MobileLoadingScreen.png" alt="MobileLoadingScreen" width="300px"/>
-  <img src="./Preview/MobileHomePage.png" alt="MobileHomePage" width="300px"/>
-  <img src="./Preview/MobileAdPage.png" alt="MobileAdPage" width="300px"/>
-  <img src="./Preview/MobileModal.png" alt="MobileModal" width="300px"/>
-</div>
-
-
-
-## Próximos passos
-    - [] Design Responsivo
-    - [] Validação - Zod
-    - [] Validação de Formulários - React Hook Form(Schema Validation)
-    - [] Carrousel(Para a lista de Jogos) - Keen-Slider
-    - [] Autenticação 
-    - [] Corrigir Select no formulário de anúncio - Radix UI
-    - [] Notificações Remostas - Expo Notifications(expo-notifications)
 
 ## Tecnologias
   ### Linguagem
@@ -57,6 +33,26 @@
   - React Native
   - Expo
   - Babel
+
+## Overview
+
+<img src="./Preview/WebHomePage.png" alt="WebHomePage" width="80%"/>
+<img src="./Preview/WebModal.png" alt="WebModal" width="400px"/>
+<div>
+  <img src="./Preview/MobileLoadingScreen.png" alt="MobileLoadingScreen" width="300px"/>
+  <img src="./Preview/MobileHomePage.png" alt="MobileHomePage" width="300px"/>
+  <img src="./Preview/MobileAdPage.png" alt="MobileAdPage" width="300px"/>
+  <img src="./Preview/MobileModal.png" alt="MobileModal" width="300px"/>
+</div>
+
+## Próximos passos
+    - [] Design Responsivo
+    - [] Validação - Zod
+    - [] Validação de Formulários - React Hook Form(Schema Validation)
+    - [] Carrousel(Para a lista de Jogos) - Keen-Slider
+    - [] Autenticação 
+    - [] Corrigir Select no formulário de anúncio - Radix UI
+    - [] Notificações Remostas - Expo Notifications(expo-notifications)
 
 ## Visualisando o Projeto
   Após baixar o projeto entre em cada pasta e instale as dependencias com:
