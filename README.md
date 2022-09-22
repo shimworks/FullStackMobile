@@ -26,6 +26,7 @@
   - Tailwind Css
   - Phosphor
   ### Back-End
+  - SQL
   - Node.JS
   - Prisma
   - Express
