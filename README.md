@@ -63,7 +63,7 @@
   
  Após a instalação utilize o comando para iniciar:
 
-  O Web e o Servidor
+  As pastas "web" e "server" individualmente: 
   ```
   npm run dev
   ```
@@ -73,4 +73,8 @@
   expo start
   ```
 ### **Para visualisar no Mobile é preciso ter o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)**
+
+## Projeto Finalizado 2022
+Este projeto não seguirá mais desenvolvimento devido a problemas tecnicos.
+Não é possivel visualizar todo o potencial do projeto por falta de acesso ao Banco de Dados 🥲
 
