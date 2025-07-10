@@ -58,7 +58,7 @@
 ## Visualisando o Projeto
   Após baixar o projeto entre nas pastas "server" e "web" e instale as dependencias com:
   ```
-  npm install
+  npm install 
   ```
   
  Após a instalação utilize o comando para iniciar:
