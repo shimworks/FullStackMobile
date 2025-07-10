@@ -56,7 +56,7 @@
     - [] Notificações Remostas - Expo Notifications(expo-notifications)
 
 ## Visualisando o Projeto
-  Após baixar o projeto entre em cada pasta e instale as dependencias com:
+  Após baixar o projeto entre nas pastas "server" e "web" e instale as dependencias com:
   ```
   npm install
   ```
